@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.climate.config.MongoConfigTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.74 s - in com.climate.config.MongoConfigTest

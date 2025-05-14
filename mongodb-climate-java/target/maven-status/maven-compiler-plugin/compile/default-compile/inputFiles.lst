@@ -1,0 +1,12 @@
+/Users/rcs/git/hlk/mongodb-climate-java/src/main/java/com/climate/config/MongoConfig.java
+/Users/rcs/git/hlk/mongodb-climate-java/src/main/java/com/climate/controller/ClimateAnalysisController.java
+/Users/rcs/git/hlk/mongodb-climate-java/src/main/java/com/climate/repository/ClimateDataRepository.java
+/Users/rcs/git/hlk/mongodb-climate-java/src/main/java/com/climate/camel/ClimateDataProcessor.java
+/Users/rcs/git/hlk/mongodb-climate-java/src/main/java/com/climate/camel/CamelConfiguration.java
+/Users/rcs/git/hlk/mongodb-climate-java/src/main/java/com/climate/controller/ClimateDataController.java
+/Users/rcs/git/hlk/mongodb-climate-java/src/main/java/com/climate/service/ClimateAnalyzer.java
+/Users/rcs/git/hlk/mongodb-climate-java/src/main/java/com/climate/ClimateApplication.java
+/Users/rcs/git/hlk/mongodb-climate-java/src/main/java/com/climate/model/ClimateData.java
+/Users/rcs/git/hlk/mongodb-climate-java/src/main/java/com/climate/service/ClimateDataService.java
+/Users/rcs/git/hlk/mongodb-climate-java/src/main/java/com/climate/controller/DataImportController.java
+/Users/rcs/git/hlk/mongodb-climate-java/src/main/java/com/climate/service/impl/ClimateDataServiceImpl.java

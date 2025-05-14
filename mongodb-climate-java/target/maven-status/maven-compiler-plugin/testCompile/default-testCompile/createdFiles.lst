@@ -1,0 +1,3 @@
+com/climate/repository/ClimateDataRepositoryTest.class
+com/climate/config/MongoConfigTest.class
+com/climate/model/ClimateDataTest.class

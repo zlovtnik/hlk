@@ -1,0 +1,9 @@
+com/climate/camel/ClimateDataProcessor.class
+com/climate/model/ClimateData.class
+com/climate/service/impl/ClimateDataServiceImpl.class
+com/climate/model/ClimateData$ClimateDataBuilder.class
+com/climate/ClimateApplication.class
+com/climate/service/ClimateDataService.class
+com/climate/config/MongoConfig.class
+com/climate/camel/CamelConfiguration.class
+com/climate/repository/ClimateDataRepository.class

@@ -1,0 +1,16 @@
+year,month,disease,caseCount,location,deathCount,recoveredCount,populationSize,latitude,longitude,regionType,avgTemp,humidity,precipitationLevel
+2022,January,Dengue,124,New York City,3,108,8500000,40.7128,-74.0060,Urban,5.2,68.2,45.6
+2022,February,Dengue,98,New York City,2,87,8500000,40.7128,-74.0060,Urban,6.8,65.7,38.2
+2022,March,Dengue,156,New York City,4,138,8500000,40.7128,-74.0060,Urban,9.5,72.3,52.7
+2022,April,Dengue,203,New York City,5,178,8500000,40.7128,-74.0060,Urban,13.2,75.6,68.9
+2022,May,Dengue,287,New York City,6,245,8500000,40.7128,-74.0060,Urban,18.7,68.9,72.3
+2022,January,Malaria,42,San Francisco,1,37,880000,37.7749,-122.4194,Urban,5.5,67.8,48.2
+2022,February,Malaria,56,San Francisco,2,48,880000,37.7749,-122.4194,Urban,7.2,66.2,40.5
+2022,March,Malaria,78,San Francisco,2,67,880000,37.7749,-122.4194,Urban,9.8,71.8,55.2
+2022,April,Malaria,98,San Francisco,3,86,880000,37.7749,-122.4194,Urban,13.8,75.2,62.3
+2022,May,Malaria,128,San Francisco,4,112,880000,37.7749,-122.4194,Urban,19.2,69.5,70.8
+2022,January,Zika,18,Miami,0,16,470000,25.7617,-80.1918,Urban,18.3,76.5,62.1
+2022,February,Zika,25,Miami,1,22,470000,25.7617,-80.1918,Urban,19.2,75.3,58.4
+2022,March,Zika,42,Miami,1,36,470000,25.7617,-80.1918,Urban,21.5,77.8,75.2
+2022,April,Zika,65,Miami,2,56,470000,25.7617,-80.1918,Urban,23.7,78.5,82.4
+2022,May,Zika,87,Miami,2,75,470000,25.7617,-80.1918,Urban,25.8,79.2,92.6

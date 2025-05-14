@@ -1,0 +1,9 @@
+# Title: Global Land and Ocean February - January Average Temperature Anomalies
+# Units: Degrees Celsius
+# Missing: -999
+# Base Period: 1901-2000
+Year,Anomaly
+2020,1.01
+2021,0.99
+2022,0.88
+2023,0.90
