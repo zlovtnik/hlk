@@ -19,7 +19,7 @@
 
     <properties>
         <java.version>17</java.version>
-        <camel.version>3.20.1</camel.version>
+        <camel.version>3.22.4</camel.version>
     </properties>
 
     <dependencies>
